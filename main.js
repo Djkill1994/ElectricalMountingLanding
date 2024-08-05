@@ -8,9 +8,9 @@ document.addEventListener("DOMContentLoaded", function () {
     // Присваиваем действие кнопке
     consultationButton.addEventListener("click", function () {
       if (isMobileDevice()) {
-        window.location.href = "tel:+375-29-348-23-59";
+        window.location.href = "tel:+375-29-560-37-49";
       } else {
-        window.location.href = "https://t.me/+375293482359";
+        window.location.href = "https://t.me/+375295603749";
       }
     });
   }
